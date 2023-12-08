@@ -9,7 +9,7 @@ module.exports = {
     extend: {
       colors: {
         green: {
-          50: '#30AF5B',
+          50: '#A2121C',
           90: '#292C27',
         },
         gray: {
@@ -28,10 +28,19 @@ module.exports = {
         yellow: {
           50: '#FEC601',
         },
+        wine: {
+          50: '#A2121C'
+        }
       },
       backgroundImage: {
-        'bg-img-1': "url('/img-1.png')",
-        'bg-img-2': "url('/img-2.png')",
+        'bg-img-1': "url('/image-1.jpeg')",
+        'bg-img-2': "url('/image-2.jpeg')",
+        'bg-img-3': "url('/image-3.jpeg')",
+        'bg-img-4': "url('/image-4.jpeg')",
+        'bg-img-5': "url('/image-5.jpeg')",
+        'bg-img-6': "url('/image-6.jpeg')",
+        'bg-img-7': "url('/image-7.jpeg')",
+        'bg-img-8': "url('/image-8.jpeg')",
         'feature-bg': "url('/feature-bg.png')",
         pattern: "url('/pattern.png')",
         'pattern-2': "url('/pattern-bg.png')",

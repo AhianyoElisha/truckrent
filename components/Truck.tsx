@@ -66,6 +66,30 @@ const Truck = () => {
           subtitle="Spintex, Accra"
           peopleJoined="50+ joined"
         />
+        <CampSite
+          backgroundImage="bg-bg-img-7"
+          title="Successful Delivery"
+          subtitle="Spintex, Accra"
+          peopleJoined="50+ joined"
+        />
+        <CampSite
+          backgroundImage="bg-bg-img-4"
+          title="Successful Delivery"
+          subtitle="Spintex, Accra"
+          peopleJoined="50+ joined"
+        />
+        <CampSite
+          backgroundImage="bg-bg-img-5"
+          title="Successful Delivery"
+          subtitle="Spintex, Accra"
+          peopleJoined="50+ joined"
+        />
+        <CampSite
+          backgroundImage="bg-bg-img-6"
+          title="Successful Delivery"
+          subtitle="Spintex, Accra"
+          peopleJoined="50+ joined"
+        />
       </div>
       <div className='flexEnd mt-10 px-6 lg:-mt-60 lg:mr-6'>
         <div className='bg-green-50 p-8 lg:max-w-[500px] xl:max-w-[734px]

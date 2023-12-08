@@ -1,13 +1,13 @@
 // NAVIGATION
 export const NAV_LINKS = [
   { href: '/', key: 'home', label: 'Home' },
-  { href: '/', key: 'how_hilink_work', label: 'How Hilink Work?' },
+  { href: '/', key: 'how_hilink_work', label: 'How SamSoft Works?' },
   { href: '/', key: 'services', label: 'Services' },
   { href: '/', key: 'pricing ', label: 'Pricing ' },
   { href: '/', key: 'contact_us', label: 'Contact Us' },
 ];
 
-// CAMP SECTION
+// TRUCK SECTION
 export const PEOPLE_URL = [
   '/person-1.png',
   '/person-2.png',
@@ -52,9 +52,9 @@ export const FOOTER_LINKS = [
   {
     title: 'Learn More',
     links: [
-      'About Hilink',
-      'Press Releases',
-      'Environment',
+      'About SamSoft Group',
+      'Prices',
+      'Deliveries',
       'Jobs',
       'Privacy Policy',
       'Contact Us',
@@ -69,8 +69,8 @@ export const FOOTER_LINKS = [
 export const FOOTER_CONTACT_INFO = {
   title: 'Contact Us',
   links: [
-    { label: 'Admin Officer', value: '123-456-7890' },
-    { label: 'Email Officer', value: 'hilink@akinthil.com' },
+    { label: 'Admin Officer', value: '+233-456-7890' },
+    { label: 'Email Officer', value: 'samsoftlogistics@gmail.com' },
   ],
 };
 
